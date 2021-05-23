@@ -1,0 +1,15 @@
+{
+  "name": "node-fastify-starter",
+  "version": "1.0.0",
+  "description": "Starter Node App With Fastify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Made By Donuts",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fastify": "^3.15.1"
+  }
+}
